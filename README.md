@@ -1,5 +1,7 @@
 # CFY
 
+![](https://img.shields.io/badge/license-Apache%202-blue)  
+
 cfy is a command-line tool that lets you interact with comfyui servers. It's basically curl for comfyui servers.
 
 Its main function is to template the workflow JSON files of comfyui, separating the parameters for easy modification.
